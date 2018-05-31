@@ -17,7 +17,7 @@ Base on @angular/cli v6.0.7
 # Installation
 
 1. Clone this rep.
-2. npm install
+2. Run: npm install
 
 # Licence
 MIT
