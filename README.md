@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Tazrimon
+# App Template
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
 
@@ -27,9 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
-# AppTemplate
-
-Base on @angular/cli v6.0.7
 
 # App includes:
 
@@ -51,4 +47,3 @@ Base on @angular/cli v6.0.7
 # Licence
 MIT
 
->>>>>>> c2e2beb33988f312beb29884b3599d294a784522
