@@ -20,10 +20,31 @@ Base on @angular/cli v6.0.7
 
 # File structure:
 
-*  src
-    *  assets
+|- src/
+    |- assets
+    |- components
+        |- language(Component)
+    |- directives
+    |- environments
+    |- interceptors
+        |- auth-interceptor
+    |- lang
+        |- lang-en.ts
+        |- lang-he.ts
+    |- modeles
+        |- log.model.ts
+    |- modules
+        |- material(Module)
+        |- router(Module)
+        |- translate(Module)
+    |- pages
+        |- app(Component)
+    |- pipes
+    |- services
+        |- log(service)
+        |- storage(service)
+
 
 # Licence
 MIT
 
-Thanks to 
