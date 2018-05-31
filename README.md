@@ -20,8 +20,8 @@ Base on @angular/cli v6.0.7
 
 # File structure:
 
-* src
- * assets
+*  src
+    *  assets
 
 # Licence
 MIT
