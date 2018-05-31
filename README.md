@@ -1,5 +1,6 @@
 # AppTemplate
-AngularCli v6.0.3
+
+Base on @angular/cli v6.0.7
 
 # App includes:
 
@@ -19,8 +20,8 @@ AngularCli v6.0.3
 
 # File structure:
 
-.src
-..assets
+* src
+ * assets
 
 # Licence
 MIT
