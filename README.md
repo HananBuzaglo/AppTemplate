@@ -21,9 +21,9 @@ Base on @angular/cli v6.0.7
 # File structure:
 
 |- src/
-    |- assets
-    |- components
-        |- language(Component)
+----|- assets
+----|- components
+--------|- language(Component)
     |- directives
     |- environments
     |- interceptors
