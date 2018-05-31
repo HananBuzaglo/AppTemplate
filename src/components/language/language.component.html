@@ -1,0 +1,9 @@
+<div class="d-flex flex-column">
+    <div class="btn-group" role="group" aria-label="Lang">
+        <button type="button"  class="btn" *ngFor="let lang of supportedLanguages; let i = index;" 
+                                           [ngClass]="{'bg-primary': lang === currentLang}" 
+                                           (click)="selectLang(lang.value)">
+            <img width="30" [src]="lang.icon">
+        </button>
+    </div>
+</div>
